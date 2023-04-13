@@ -1,0 +1,55 @@
+.common{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header{
+    height: 100px;
+    background-color: #0e8388;
+    color: white;
+    line-height: 100px;
+    
+}
+
+.mainbody{
+    background-color: whitesmoke;
+    color:darkslategray
+}
+
+.footer{
+    background-color: #0e8388;
+    color: white;
+    height: 25px;
+    position: fixed;
+    bottom: 0px;
+    right: 5px;
+    left: 5px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+nav{
+    background-color: lightgray;
+    padding: 10px;
+    overflow: hidden;
+    color:darkslategray
+}
+
+nav a{
+    float: left;
+    color: black;
+    padding: 10px 13px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    color:darkslategray
+}
+
+nav a:hover{
+    background-color: #ccc;
+}
